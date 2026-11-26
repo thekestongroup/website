@@ -1,2 +1,2 @@
 minimumReleaseAgeExclude:
-  - '@thekestongroup/ui@0.12.0 || 0.13.1'
+  - '@thekestongroup/ui@0.12.0 || 0.13.1 || 0.15.0'

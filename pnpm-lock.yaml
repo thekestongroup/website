@@ -170,8 +170,8 @@ importers:
         specifier: ^1.77.0
         version: 1.78.0(vue@3.5.46(typescript@5.9.3))
       '@thekestongroup/ui':
-        specifier: ^0.13.1
-        version: 0.13.1(@floating-ui/dom@1.8.0)(vue-i18n@11.4.23(vue@3.5.46(typescript@5.9.3)))(vue@3.5.46(typescript@5.9.3))
+        specifier: ^0.15.0
+        version: 0.15.0(@floating-ui/dom@1.8.0)(vue-i18n@11.4.23(vue@3.5.46(typescript@5.9.3)))(vue@3.5.46(typescript@5.9.3))
       vue:
         specifier: ^3.5.46
         version: 3.5.46(typescript@5.9.3)
@@ -507,8 +507,8 @@ packages:
     peerDependencies:
       vue: ^2.7.0 || ^3.0.0
 
-  '@thekestongroup/ui@0.13.1':
-    resolution: {integrity: sha512-ebsWjT03/wW3PqMHm1OPJ33eo6TPipaZ9cjD5h6R5hA5XuOz8h91jYHFjUs6EMmO6iU2HI5caU3i5F7qQ5cyGQ==}
+  '@thekestongroup/ui@0.15.0':
+    resolution: {integrity: sha512-hrVUvj71fudVAUYyVv7s/J6dsVNx2XjeYL2z8W6KINLc3hOSC//2aAmpcxXGiK+8wDuFJxJMYBRxbwI07UFpGQ==}
     peerDependencies:
       vue: ^3.5.0
       vue-i18n: ^11.0.0
@@ -1230,7 +1230,7 @@ snapshots:
       '@tanstack/virtual-core': 3.19.13
       vue: 3.5.46(typescript@5.9.3)
 
-  '@thekestongroup/ui@0.13.1(@floating-ui/dom@1.8.0)(vue-i18n@11.4.23(vue@3.5.46(typescript@5.9.3)))(vue@3.5.46(typescript@5.9.3))':
+  '@thekestongroup/ui@0.15.0(@floating-ui/dom@1.8.0)(vue-i18n@11.4.23(vue@3.5.46(typescript@5.9.3)))(vue@3.5.46(typescript@5.9.3))':
     dependencies:
       '@fontsource/lato': 5.3.0
       '@internationalized/date': 3.12.4
